@@ -4,7 +4,7 @@
     "manifest": {
       "override": {
         "url": "https://github.com/julasamer/electrode-native-starter-manifest.git",
-        "type": "full"
+        "type": "partial"
       }
     }
   },
