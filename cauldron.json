@@ -3,7 +3,7 @@
   "config": {
     "manifest": {
       "override": {
-        "url": "https://github.com/julasamer/electrode-native-starter-manifest.git",
+        "url": "git@github.com/julasamer/electrode-native-starter-manifest.git",
         "type": "partial"
       }
     }
